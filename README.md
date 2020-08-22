@@ -1,2 +1,0 @@
-# WARM-uP-Tics
-None
