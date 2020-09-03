@@ -21,7 +21,8 @@ Consta de 3 botones:
 1.-Cargar JSON, para cargar una configuracion pasada.
 2.-Generar Simulación, para probar los datos ingresados.
 3.-Salir, para cerrar el programa.
-una vez realizada la simulación, el programa creara un reporte en un archivo PDF, para la posterior revisión
+una vez realizada la simulación, el programa creara un reporte en un archivo PDF, 
+para la posterior revisión
 ```
 
 ## Contribuciones
