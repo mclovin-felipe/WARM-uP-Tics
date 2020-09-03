@@ -17,10 +17,10 @@ pip install fpdf
 import fpdf
 
 Compilar el archivo GUI.py el cual desplegara la interfaz
-Consta de 3 botoes:
-Cargar JSON, para cargar una configuracion pasada.
-Generar Simulación, para probar los datos ingresados.
-Salir, para cerrar el programa.
+Consta de 3 botones:
+1.-Cargar JSON, para cargar una configuracion pasada.
+2.-Generar Simulación, para probar los datos ingresados.
+3.-Salir, para cerrar el programa.
 ```
 
 ## Contribuciones
