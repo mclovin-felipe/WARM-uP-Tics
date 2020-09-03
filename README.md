@@ -15,15 +15,15 @@ pip install fpdf
 ```python
 import fpdf
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Compilar el archivo GUI.py el cual desplegara la interfaz
+Consta de 3 botoes:
+Cargar JSON, para cargar una configuracion pasada.
+Generar Simulación, para probar los datos ingresados.
+Salir, para cerrar el programa.
 ```
-[IMG](https://ibb.co/m5N1Ffj)
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Contributing
+Cualquier contribución es bien recibida, y sera evaluada por el equipo de desarrollo:) 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
