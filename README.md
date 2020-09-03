@@ -1,13 +1,13 @@
-# Foobar
+# Proyecto Simulación
 
-Foobar is a Python library for dealing with word pluralization.
+Programa creado en python, con el cual se puede simular de una forma sencilla el comportamiento de la gente en un supercado.
 
-## Installation
+## Instalación requerida
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pypi.org/project/fpdf/) to install FPDF.
 
 ```bash
-pip install foobar
+pip install fpdf
 ```
 
 ## Usage
