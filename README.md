@@ -1,6 +1,7 @@
 # Proyecto Simulación
 
 Programa creado en python, con el cual se puede simular de una forma sencilla el comportamiento de la gente en un supercado.
+Utiliza librerias como tkinter, os, FPDF, global, json entre otras.
 
 ## Instalación requerida
 
@@ -22,8 +23,7 @@ Generar Simulación, para probar los datos ingresados.
 Salir, para cerrar el programa.
 ```
 
-## Contributing
+## Contribuciones
 Cualquier contribución es bien recibida, y sera evaluada por el equipo de desarrollo:) 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
